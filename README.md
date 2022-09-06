@@ -9,15 +9,19 @@ The purpose of this project was to refactor a macro used for analyzing stocks (i
 
 Using the refactored code, I was able to cut down the time needed to run the macro through the worksheet:
 
-Orignal code time:
+Refactored code times:
 
-- OG TIME 2017
-- OG TIME 2018
+<img width="270" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/58227052/188755397-2b1fe974-5560-4043-a0cf-47f3bc1e39ff.png">
 
-Refactored Code time:
+<img width="281" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/58227052/188755425-4f29795f-c969-41fc-9f94-68934326f73e.png">
 
-- NEW TIME 2017
-- NEW TIME 2018
+Original code times:
+
+<img width="268" alt="VBA_Challenge_OG_2017" src="https://user-images.githubusercontent.com/58227052/188756035-af775d6d-1752-4add-8757-d395b9818c76.png">
+
+<img width="271" alt="VBA_Challenge_OG_2018" src="https://user-images.githubusercontent.com/58227052/188756095-9e8a557c-6305-4952-b996-b7cec93a2f50.png">
+
+From this we can see we saved roughly half a second (~0.5) from refactoring the code.
 
 Refactored code:
 
